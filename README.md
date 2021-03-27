@@ -1,5 +1,5 @@
 # Optimal Transport Propagation
-A Label propagation algorithm's based on Optimal Transport 
+A Label propagation algorithm based on Optimal Transport Theory
 
 
 ## Installation and Dependencies
