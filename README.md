@@ -1,4 +1,4 @@
-# Optimal Transport Propagation
+# Optimal Transport Propagation (OTP)
 A Label Propagation algorithm based on Optimal Transport 
 
 ## Installation and Dependencies
