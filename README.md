@@ -15,6 +15,10 @@ It is recommend to use `Python 3.8` from [Anaconda](https://www.anaconda.com/) d
 
 ## Usage
 To reproduce the results, a `jupyter notebook` is provided in `./Optimal_Transport_Propagation.ipynb`.
+The  experiment  was  designed  to  evaluate  OTP on Iris and Digits datasets. To reproduce all the results in the paper, the other datasets are available on https://archive.ics.uci.edu.
+
+
+the results on the others datasets such as the paper, you can found it on 
 
 
 ## References
