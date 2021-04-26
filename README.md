@@ -20,4 +20,4 @@ The  experiment  was  designed  to  evaluate  OTP on Iris and Digits datasets. T
 
 
 ## References
-* Label Propagation Through Optimal Transport IJCNN21
+* Label Propagation Through Optimal Transport - IJCNN21
